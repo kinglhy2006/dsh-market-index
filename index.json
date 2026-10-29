@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "title": { "en": "kinglhy2006 plugins", "zh": "kinglhy2006 的 DSH 插件" },
+  "description": {
+    "en": "Plugins published by kinglhy2006.",
+    "zh": "kinglhy2006 发布的 DSH 插件。"
+  },
+  "plugins": [
+    {
+      "name": "dsh-voice-bridge",
+      "title": { "en": "Voice Bridge (Jarvis)", "zh": "语音桥 · 贾维斯" },
+      "description": {
+        "en": "Jarvis-style voice assistant: local wake word, Chinese speech recognition that fills and sends the prompt, spoken answers. Windows only.",
+        "zh": "贾维斯式语音助手：本地唤醒词「贾维斯」+ 中文识别自动填入并发送 + 语音朗读回答。仅 Windows。"
+      },
+      "author": "kinglhy2006",
+      "homepage": "https://github.com/kinglhy2006/dsh-voice-bridge#readme",
+      "repository": { "url": "https://github.com/kinglhy2006/dsh-voice-bridge" },
+      "versions": [
+        {
+          "version": "1.0.0",
+          "publishTimestamp": 1793148613,
+          "source": { "type": "npm" }
+        }
+      ]
+    },
+    {
+      "name": "dsh-crt-theme",
+      "title": { "en": "CRT Theme", "zh": "CRT 终端皮肤" },
+      "description": {
+        "en": "CRT terminal skin: black-green phosphor palette, scanlines, monospace type.",
+        "zh": "CRT 终端皮肤：黑绿荧光配色、扫描线、等宽字体。"
+      },
+      "icon": "icons/crt.svg",
+      "author": "kinglhy2006",
+      "homepage": "https://github.com/kinglhy2006/dsh-crt-theme",
+      "repository": { "url": "https://github.com/kinglhy2006/dsh-crt-theme" },
+      "versions": [
+        {
+          "version": "1.0.0",
+          "publishTimestamp": 1793148744,
+          "source": { "type": "npm" }
+        }
+      ]
+    }
+  ]
+}
