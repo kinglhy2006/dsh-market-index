@@ -18,8 +18,8 @@
       "repository": { "url": "https://github.com/kinglhy2006/dsh-voice-bridge" },
       "versions": [
         {
-          "version": "1.0.1",
-          "publishTimestamp": 1793867274,
+          "version": "1.0.2",
+          "publishTimestamp": 1793868976,
           "source": { "type": "npm" }
         }
       ]
@@ -45,3 +45,4 @@
     }
   ]
 }
+
