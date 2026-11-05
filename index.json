@@ -10,16 +10,16 @@
       "name": "dsh-voice-bridge",
       "title": { "en": "Voice Bridge (Jarvis)", "zh": "语音桥 · 贾维斯" },
       "description": {
-        "en": "Jarvis-style voice assistant: local wake word, Chinese speech recognition that fills and sends the prompt, spoken answers. Windows only.",
-        "zh": "贾维斯式语音助手：本地唤醒词「贾维斯」+ 中文识别自动填入并发送 + 语音朗读回答。仅 Windows。"
+        "en": "Jarvis-style voice assistant: local wake word \"你好贾维斯\", Chinese speech recognition that fills the prompt and sends after a 5s confirmation, spoken answers. Windows only.",
+        "zh": "贾维斯式语音助手：本地唤醒词「你好贾维斯」+ 中文识别先填输入框、5 秒确认后发送 + 语音朗读回答。仅 Windows。"
       },
       "author": "kinglhy2006",
       "homepage": "https://github.com/kinglhy2006/dsh-voice-bridge#readme",
       "repository": { "url": "https://github.com/kinglhy2006/dsh-voice-bridge" },
       "versions": [
         {
-          "version": "1.0.0",
-          "publishTimestamp": 1793148613,
+          "version": "1.0.1",
+          "publishTimestamp": 1793867274,
           "source": { "type": "npm" }
         }
       ]
